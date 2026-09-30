@@ -1,0 +1,14 @@
+streamlit
+folium
+streamlit-folium
+pandas
+geopy
+requests
+gspread
+google-auth
+google-genai
+google-generativeai
+openai
+openpyxl
+pypdf
+tabulate
